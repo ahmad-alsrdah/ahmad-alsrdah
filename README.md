@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ahmad-alsrdah?label=Followers&style=social)
 ![](https://komarev.com/ghpvc/?username=ahmad-alsrdah&color=blue)
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" height="500">
 
 ## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
 
