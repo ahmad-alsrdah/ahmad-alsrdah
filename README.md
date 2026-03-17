@@ -1,9 +1,8 @@
 ## Hi, I'm Ahmad 👋 
-
-[![Linkedin:Ahmad](https://img.shields.io/badge/-Ahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
+[![LinkedIn: Ahmad](https://img.shields.io/badge/in-Ahmad-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/)
 [![Instagram:Ahmad](https://img.shields.io/badge/-Ahmad-magenta?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmad.srdah)](https://www.instagram.com/ahmad.srdah)
 ![GitHub followers](https://img.shields.io/github/followers/ahmad-alsrdah?label=Followers&style=social)
-![](https://komarev.com/ghpvc/?username=ahmad-alsrdah&color=blue)
+![](https://komarev.com/ghpvc/?username=ahmad-alsrdah&color=0A66C2)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Ahmad%20Al-Srdah&fontAlign=50&fontAlignY=40" width="1000"/>
 
