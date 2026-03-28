@@ -17,7 +17,7 @@
 
 ## Tech Stack 🧰
 
-![Skills](https://skillicons.dev/icons?i=cpp,cs,python,kotlin,dotnet,gradle,git,github,firebase,cloudflare,docker,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
+![Skills](https://skillicons.dev/icons?i=cpp,cs,python,kotlin,dotnet,gradle,git,github,firebase,cloudflare,docker,redhat,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
 
 ## Featured Project 🚀
 
