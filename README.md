@@ -19,17 +19,9 @@
 
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,python,kotlin,dotnet,gradle,git,github,firebase,cloudflare,docker,redhat,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
 
-## Featured Project 🚀
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazen-altabbaa&repo=Aphamos&theme=tokyonight)](https://github.com/mazen-altabbaa/Aphamos)
-
 ## Contribution Graph 📈
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alsrdah&theme=tokyo-night)
-
-## GitHub Stats 📊
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-alsrdah&show_icons=true&theme=tokyonight)
 
 ## Dev Quote🕯️
 <p>
