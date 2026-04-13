@@ -10,16 +10,16 @@
 
 ## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
 
-- Computer Engineering Student 🎓  
+- Computer Engineering Student   
 - Interested in Backend Development and Android Development 💻  
-- Currently learning ASP.NET Core and building RESTful APIs 🚀
+- Currently learning ASP.NET Core and building RESTful APIs 
 - Reach me at: ahmad2315753@gmail.com
 
 ## Tech Stack 🧰
 
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,python,kotlin,dotnet,gradle,git,github,firebase,cloudflare,docker,redhat,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
 
-## Contribution Graph 📈
+## Contribution Graph 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alsrdah&theme=tokyo-night)
 
