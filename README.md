@@ -29,6 +29,4 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3d5MTcycDN6bXZldWo3ZTMzbWZwN2V3b2tnbGEyanc1YzRrZHdmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZcOp90meNVJG9Xh3H/giphy.gif" height="150">
 </p>
 
-![](profile-3d-contrib/profile-green-animate.svg)
-
 ![](profile-3d-contrib/profile-night-view.svg)
