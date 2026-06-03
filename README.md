@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Ahmad%20Al-Srdah&fontAlign=50&fontAlignY=40" width="1000"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Developer;Mobile+Developer;Software+Engineering+Student;Building+Scalable+Applications;Always+Learning+New+Technologies&center=true&width=1000&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Developer;Software+Engineering+Student;Building+Scalable+Applications;Always+Learning+New+Technologies&center=true&width=1000&height=50)
 
 
 
