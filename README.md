@@ -6,6 +6,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Ahmad%20Al-Srdah&fontAlign=50&fontAlignY=40" width="1000"/>
 
+![](profile-3d-contrib/profile-night-rainbow.svg)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Developer;Mobile+Developer;Software+Engineering+Student;Building+Scalable+Applications;Always+Learning+New+Technologies&center=true&width=1000&height=50)
 
 ## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
@@ -29,5 +31,4 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3d5MTcycDN6bXZldWo3ZTMzbWZwN2V3b2tnbGEyanc1YzRrZHdmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZcOp90meNVJG9Xh3H/giphy.gif" height="150">
 </p>
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
 
