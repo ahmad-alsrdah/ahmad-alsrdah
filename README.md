@@ -10,8 +10,8 @@
 
 ## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
 
-- Computer Engineering Student   
-- Interested in Backend Development and Android Development 💻  
+- Software Engineering Student   
+- Interested in Backend Development and AI Systems 💻  
 - Currently learning ASP.NET Core and building RESTful APIs 
 - Reach me at: ahmad2315753@gmail.com
 
