@@ -28,7 +28,7 @@ I am a **Software Engineering Student** and a passionate **Backend Developer** s
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alsrdah&theme=tokyo-night)
 
-## More commits... The snake is hungry!
+## More commits... My snake is hungry!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-alsrdah/ahmad-alsrdah/output/github-contribution-grid-snake-dark.svg">
