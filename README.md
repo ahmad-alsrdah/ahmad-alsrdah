@@ -22,7 +22,7 @@ I am a **Software Engineering Student** and a passionate **Backend Developer** s
 
 ## Tech Stack 🧰
 
-![Skills](https://skillicons.dev/icons?i=cpp,cs,python,kotlin,dotnet,gradle,git,github,firebase,cloudflare,docker,redhat,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
+![Skills](https://skillicons.dev/icons?i=cpp,cs,python,dotnet,git,github,firebase,cloudflare,docker,redhat,debian,kali,ubuntu,mysql,sqlite,mongodb,postman)
 
 ## Contribution Graph 
 
