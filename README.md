@@ -37,11 +37,11 @@ I am a **Software Engineering Student** and a passionate **Backend Developer** s
 </picture>
 
 ## Dev Quote🕯️
-<p>
+<!-- <p> -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=161B22&quoteColor=8968CD&authorColor=FFFFFF&symbolColor=FFFFFF">
   
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3d5MTcycDN6bXZldWo3ZTMzbWZwN2V3b2tnbGEyanc1YzRrZHdmZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4ZcOp90meNVJG9Xh3H/giphy.gif" height="150">
-</p>
+<!-- </p> -->
 
 
 
