@@ -21,11 +21,11 @@ I am a **Software Engineering Student** and a passionate **Backend Developer** s
 - **DevOps & Environments:** Exploring containerization with Docker and working within Linux environments.
 - **Reach Me At:** ahmad.alsrdah.dev@gmail.com
 
-## Tech Stack 
+# Tech Stack 
 
 ![Skills](https://skillicons.dev/icons?i=cpp,cs,python,dotnet,azure,git,github,docker,kubernetes,redis,rabbitmq,kafka,firebase,cloudflare,redhat,debian,kali,mysql,sqlite,mongodb,fastapi,postman,unity,blender)
 
-## Contribution Graph 
+# Contribution Graph 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-alsrdah&bg_color=00000000&color=8968CD&line=8968CD&point=FFFFFF&area=true&area_color=8968CD)
 ## More commits... My snake is hungry!
@@ -36,7 +36,7 @@ I am a **Software Engineering Student** and a passionate **Backend Developer** s
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ahmad-alsrdah/ahmad-alsrdah/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Dev Quote🕯️
+# Dev Quote🕯️
 <p> 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=161B22&quoteColor=8968CD&authorColor=FFFFFF&symbolColor=FFFFFF">
   
