@@ -13,7 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=ahmad-alsrdah&color=8969CD" alt="Views">
 </p>
 
-## About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
+# About Me 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk1bDhxMmh3MHNmc2VyeHZ6ZmxhaW16eTc3d2llZ2tvNGk2ODl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3xJjEZ3tSpgTS/giphy.gif" height="25">
 
 I am a **Software Engineering Student** and a passionate **Backend Developer** specializing in building robust, scalable systems and architectural designs. My main focus is crafting high-performance RESTful APIs and exploring AI system integrations.
 
