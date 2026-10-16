@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-al-srdah-2a4b87325/"><img src="https://img.shields.io/badge/in-Ahmad-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/ahmad.srdah"><img src="https://img.shields.io/badge/-Ahmad-magenta?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmad.srdah" alt="Instagram"></a>
+  <a href="https://www.instagram.com/ahmad.alsrdah"><img src="https://img.shields.io/badge/-Ahmad-magenta?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahmad.alsrdah" alt="Instagram"></a>
   <img src="https://img.shields.io/github/followers/ahmad-alsrdah?label=Followers&style=social" alt="Followers">
   <img src="https://komarev.com/ghpvc/?username=ahmad-alsrdah&color=8969CD" alt="Views">
 </p>
